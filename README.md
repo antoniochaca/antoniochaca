@@ -64,10 +64,5 @@ Habilidade Passiva: "Late Night Refactor" (+20% de precisão ao depurar código 
 ### 🏆 Relatório de Batalha (GitHub Stats & Streaks)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniochaca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats do Jogador" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniochaca&theme=tokyonight&hide_border=true" width="48%" alt="Streak de Batalha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniochaca&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Grimório de Linguagens" />
 </p>
