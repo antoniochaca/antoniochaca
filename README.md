@@ -1,3 +1,5 @@
+<img src="./assets/ai-artificer-banner.png" width="100%" alt="Antônio Chacarosque — AI Artificer">
+
 <div align="center">
 
 # ⚔️ ANTÔNIO CHACAROSQUE
